@@ -1,0 +1,3 @@
+object flink_assign {
+
+}
